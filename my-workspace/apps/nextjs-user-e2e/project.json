@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-user-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nextjs-user-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["nextjs-user"],
+  "// targets": "to see all targets run: nx show project nextjs-user-e2e --web",
+  "targets": {}
+}
